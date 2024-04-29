@@ -177,3 +177,16 @@ gse <- gseGO(gene_list, ont = "BP", keyType = "ENSEMBL", OrgDb ="org.Mm.eg.db", 
 gseaplot(gse, geneSetID = "GO:0046324" )
 
 ```
+
+asdasda
+sda
+sd
+asd
+asd
+a
+dsas
+das
+das
+d
+SADAS
+D
